@@ -1,0 +1,119 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level1_1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "16-bit tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/coffe/projects/RetroCoff1/levels/level1.tmx": {
+            "scale": 3.0795833333333333,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 40.914625896360434,
+                "y": 84.1022865647409
+            }
+        },
+        "C:/Users/coffe/projects/RetroCoff1/tiled/RetroTiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/coffe/projects/RussianVillage/map/test.tmx": {
+            "expandedObjectLayers": [
+                10
+            ],
+            "scale": 2.3,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 239.56521739130443,
+                "y": 160.00000000000003
+            }
+        },
+        "C:/Users/coffe/projects/RussianVillage/tiled/Furniture.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/coffe/projects/RussianVillage/tiled/Interior.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/coffe/projects/RussianVillage/tiled/Interiors_free_16x16.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/coffe/projects/RussianVillage/tiled/Room_Builder_free_16x16.tsx": {
+            "scaleInDock": 1
+        },
+        "decoration.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dungeon.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level1_1.tmx": {
+            "expandedObjectLayers": [
+                6,
+                8,
+                4,
+                7,
+                3
+            ],
+            "scale": 8,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 92.25,
+                "y": 70.5
+            }
+        },
+        "map.tmx": {
+            "expandedObjectLayers": [
+                10,
+                8,
+                3
+            ],
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 239.83333333333331,
+                "y": 159.83333333333334
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/coffe/PycharmProjects/RetroPixels/RetroCoff1",
+    "map.height": 12,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 10,
+    "openFiles": [
+        "dungeon.tsx",
+        "map.tmx",
+        "16-bit tileset.tsx",
+        "decoration.tsx",
+        "C:/Users/coffe/projects/RussianVillage/map/test.tmx",
+        "level1_1.tmx"
+    ],
+    "project": "RetroPixels.tiled-project",
+    "recentFiles": [
+        "dungeon.tsx",
+        "map.tmx",
+        "16-bit tileset.tsx",
+        "decoration.tsx",
+        "C:/Users/coffe/projects/RussianVillage/map/test.tmx",
+        "level1_1.tmx",
+        "C:/Users/coffe/projects/RetroCoff1/levels/level1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 1
+}

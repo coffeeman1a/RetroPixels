@@ -1,0 +1,45 @@
+{
+    "layers": [
+        {
+            "name": "ground",
+            "class": "Generic",
+            "groups": ["all_sprites"],
+            "display_layer": "ground"
+        },
+        {
+            "name": "walls",
+            "class": "Generic",
+            "groups": ["all_sprites", "collision_sprites"],
+            "display_layer": "walls"
+        }
+    ],
+    "objects": [
+        {
+            "name": "lights",
+            "class": "GenericAnimation",
+            "groups": ["all_sprites", "collision_sprites"],
+            "display_layer": "main"
+        },
+        {
+            "name": "decoration",
+            "class": "GenericPhysics",
+            "groups": ["all_sprites", "collision_sprites", "physics_sprites"],
+            "display_layer": "main"
+        },
+        {
+            "name": "chests",
+            "class": "Chest",
+            "groups": ["all_sprites", "collision_sprites", "physics_sprites"],
+            "display_layer": "main"
+        },
+        {
+            "name": "items",
+            "class": "GenericPhysics",
+            "groups": ["all_sprites", "collision_sprites", "physics_sprites"],
+            "display_layer": "items"
+        },
+        {
+            "name": "player"
+        }
+    ]
+}
